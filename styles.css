@@ -110,3 +110,11 @@ body {
   border: none;
   border-radius: 5px;
 }
+
+@media screen and (max-width: 400px) {
+  #card {
+    width: 80%;
+    margin: auto;
+    height: 90vh;
+  }
+}
